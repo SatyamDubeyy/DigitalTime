@@ -12,5 +12,5 @@ setInterval(tset,1000)
 document.addEventListener("click", myFunction);
 
 function myFunction() {
-  id.innerHTML = "Created By Satyam Dubey";
+  id.innerHTML = "Created By Navneet Sinha";
 }
